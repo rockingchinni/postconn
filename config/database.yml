@@ -25,10 +25,10 @@ development:
   adapter: postgresql
   encoding: unicode
   pool: 5
-  database: deck19hmatio02
-  username: cuhvaroravkfqv
-  password: nhFFsQPaHRek1-VrxzDl_BJI_J
-  host:     ec2-54-83-204-85.compute-1.amazonaws.com
+  database: dfr0h53kpabo8j
+  username: yblhbicnxqslrd
+  password: 5UY_TTW-Xclkme4vRCV1yiYThb
+  host:     ec2-54-197-249-212.compute-1.amazonaws.com
   port:     5432
 
   # The specified database role being used to connect to postgres.
